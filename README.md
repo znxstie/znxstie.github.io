@@ -1,2 +1,2 @@
 # znxstie.github.io
-<1>hello wordle</h1>
+<h1>hello wordle</h1>
